@@ -1,16 +1,18 @@
 # awesome-ham
 
-<div align="center">
+<p>
 
 [English](README.md) • [中文](#awesome-ham)
-</div>
+</p>
 
 ## 天线
 [业余无线电可视化](https://ham.charlesify.com/) - 业余无线电天线辐射图与物理原理的交互式 3D 可视化平台。
 
 ## 日志
+[LoTW](https://lotw.arrl.org/lotwuser/default) - LoTW 日志服务
 
 ## 社区
+[QRZ](https://www.qrz.com/) - 全球业余无线电（HAM）领域最核心、最权威的在线社区和呼号查询数据库
 
 ## 设备
 
