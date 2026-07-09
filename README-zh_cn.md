@@ -14,6 +14,8 @@
 ## 社区
 [QRZ](https://www.qrz.com/) - 全球业余无线电（HAM）领域最核心、最权威的在线社区和呼号查询数据库
 
+[HamCQ](https://forum.hamcq.cn/) - 中文社区
+
 ## 设备
 
 ## 应用

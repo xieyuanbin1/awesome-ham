@@ -14,6 +14,8 @@
 ## BBS
 [QRZ](https://www.qrz.com/) - The most essential and authoritative online community and callsign lookup database in the global amateur radio (HAM) field.
 
+[HamCQ](https://forum.hamcq.cn/) - Chinese community
+
 ## Devices
 
 ## APPs
