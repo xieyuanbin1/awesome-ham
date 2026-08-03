@@ -31,6 +31,8 @@
 
 [APRS地图（.fi）](https://aprs.fi/) - APRS 实时地图网站（国际版）
 
-[PSK reporter ](https://pskreporter.info/) - 全球性信号报告网络和可视化平台
+[PSK reporter](https://pskreporter.info/) - 全球性信号报告网络和可视化平台。核心功能就是一张“全球实时信号地图”。你可以把它理解成一个由全球爱好者共同维护的“信号监测系统”。[PSK 地图](https://pskreporter.info/pskmap.html)
+
+[DXlook](https://www.qsl.net/ak6fp/dxlook-hamclock-alternative/) - 免费的、基于网页的业余无线电传播分析与可视化平台。可以把它看作一个功能强大的“传播洞察仪表盘”，它能帮你实时回答：“我的信号能被谁听到？”以及“从我的位置看，现在的传播到底怎么样？” [DXlook 地图](https://dxlook.com/)
 
 ## 竞赛
