@@ -14,6 +14,11 @@
 
 ## 设备
 
+## 考试
+[业余无线电操作证](https://exam.cqradio.cn/questions)
+
+[业余无线电考试练习系统](https://exam.bh5hsu.com/)
+
 ## 网页应用
 [K5Web](https://k5.vicicode.cn/#/chirp/base) - 泉盛 K5/K6 在线写频及刷固件。
 
